@@ -1,4 +1,4 @@
-# Netflix_Dashboard
+# Netflix_Movies_&_TV_Shows_Dashboard
 Tableau Dashboard
 
 # Project Link
