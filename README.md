@@ -1,9 +1,7 @@
-# Netflix Data Analysis Using Tableau
+# Netflix Movies and TV Shows Dashboard
 
 
-# PROJECT NAME:
 
-Netflix Data Analysis Using Tableau
 
 # TECHNOLOGIES USED:
 
@@ -13,6 +11,7 @@ Netflix Data Analysis Using Tableau
 
 
 # STEPS:
+
 i) Data subset collected from online.
 
 ii) Loading Libraries
