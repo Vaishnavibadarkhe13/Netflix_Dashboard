@@ -39,11 +39,6 @@ iv) Data Visualization
 # METHODOLOGY:
 The goal of this project is to practice creating and interpreting different types of visualizations using real world data. I create a minimum of two histogram, two pie chart and one bar graph with matplotlib, seaborn and worldcloud.
 
-# Vertical Bar Graph of Rating & Horizontal Bar Graph of Top 10 Gerne.
-Netflix1
-
-# Country wise Map of Total Movies and TV shows by Country & line Area Graph of Total Movies and TV shows by Year.
-Netflix2
 
 # NETFLIX ANALYSIS DASHBOARD:
 
@@ -57,10 +52,6 @@ The dashboard shows:
    
 4) The Dashboard will top 10 genre and pie chart of sum up of movies and Tv shos released each year.
    
-# DASHBOARD:
-
-Netflix
-
 
 
 
